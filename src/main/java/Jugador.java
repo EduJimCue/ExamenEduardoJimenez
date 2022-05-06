@@ -7,7 +7,6 @@ public class Jugador {
 
     public Jugador(String nombre){
         this.nombre=nombre;
-        System.out.println("Modificacion para que se vea");
     }
 
     public void preguntarMovimiento(){
